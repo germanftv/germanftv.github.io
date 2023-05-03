@@ -20,8 +20,9 @@
     ,
     <a href="https://scholar.google.com/citations?user=r6Y4nacAAAAJ&hl=en">Joni Kämäräinen</a>
     </div>
-    <div class="periodical"> In <em>Proceedings of the 22nd Scandinavian Conference on Image Analysis <strong>(SCIA)</strong>, 2023.</em></div>
+    <div class="periodical"> In <em>Proceedings of the 23rd Scandinavian Conference on Image Analysis <strong>(SCIA)</strong>, 2023.</em></div>
     <div class="links">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-31435-3_19" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://arxiv.org/abs/2303.09334" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://github.com/germanftv/ParallaxICB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://germanftv.github.io/ParallaxICB.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
