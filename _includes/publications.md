@@ -4,6 +4,41 @@
 <ol class="bibliography">
 
 <li>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/DAVIDE_2024.gif" class="teaser img-fluid z-depth-1">
+    <!-- <abbr class="badge">CVPR</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+    <span style="color: #ad662b;">DAVIDE: Depth-Aware Video Deblurring</span>
+    </div>
+    <div class="author">
+    <strong>German F. Torres</strong>
+    ,
+    <a href="https://scholar.google.com/citations?user=jptJmccAAAAJ&hl=en&oi=ao">Jussi Kalliola</a>
+    ,
+    <a href="https://scholar.google.com/citations?user=E74IqRQAAAAJ&hl=en&oi=ao">Soumya Tripathy</a>
+    ,
+    <a href="https://scholar.google.com/citations?user=wuo_3VMAAAAJ&hl=en&oi=ao">Erman Acar</a>
+    ,
+    <a href="https://scholar.google.com/citations?user=r6Y4nacAAAAJ&hl=en">Joni Kämäräinen</a>
+    </div>
+    <div class="periodical"> Accepted to ECCV Workshop: <em>5th Advances in Image Manipulation (AIM) Workshop and Challenges, 2024.</em></div>
+    <div class="links">
+      <!-- <a href="https://link.springer.com/chapter/10.1007/978-3-031-31435-3_19" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
+      <a href="https://arxiv.org/abs/2409.01274" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <!-- <a href="https://github.com/germanftv/ParallaxICB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://germanftv.github.io/DAVIDE.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
