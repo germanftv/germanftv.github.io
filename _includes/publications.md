@@ -29,10 +29,10 @@
     </div>
     <div class="periodical"> Accepted to ECCV Workshop: <em>5th Advances in Image Manipulation (AIM) Workshop and Challenges, 2024.</em></div>
     <div class="links">
-      <!-- <a href="https://link.springer.com/chapter/10.1007/978-3-031-31435-3_19" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-91838-4_10" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://arxiv.org/abs/2409.01274" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <!-- <a href="https://github.com/germanftv/ParallaxICB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://germanftv.github.io/DAVIDE.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/germanftv/DAVIDE-Benckmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
@@ -59,8 +59,8 @@
     <div class="links">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-31435-3_19" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://arxiv.org/abs/2303.09334" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://github.com/germanftv/ParallaxICB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://germanftv.github.io/ParallaxICB.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/germanftv/ParallaxICB" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
